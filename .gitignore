@@ -14,6 +14,9 @@ faiss_index/
 # Chunk debug export
 chunks.txt
 
+# Claude Code
+.claude/
+
 # IDE
 .vscode/
 .idea/
