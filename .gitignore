@@ -1,0 +1,23 @@
+# Virtual environment
+venv/
+env/
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# FAISS index (large binary files)
+faiss_index/
+
+# Chunk debug export
+chunks.txt
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
